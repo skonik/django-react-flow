@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "django-react-flow"
-version = "0.1.0"
+version = "0.1."
 description = "Building react-flow graph via django using yaml"
 authors = ["Sergei Konik <s.konik.dev@gmail.com>"]
 readme = "README.md"
